@@ -9,10 +9,10 @@
 | 名称 | 编码 | 内容 |
 | - | - | - |
 | [总入口](https://book.wangyaqi.cn/) | book | 无法归类的都先放这里。通用知识，如操作系统原理，网络原理。技术-其他。行业-其他，如IOT |
-| [研发](https://rd.wangyaqi.cn/) | rd | 软件工程，流程 |
+| [研发](https://rd.wangyaqi.cn/) | rd | 软件工程，流程，团队管理 |
 | [质量](https://quality.wangyaqi.cn/) | quality | 质量体系(QS),质量控制(QC),质量保证(QA),质量验证(VA) |
 | [devops](https://devops.wangyaqi.cn/) | devops |  |
-| [产品](https://product.wangyaqi.cn/) | product |  |
+| [产品](https://product.wangyaqi.cn/) | product | 调研，选择，设计 |
 | [Java框架-太行](https://taihang.wangyaqi.cn/) | taihang |  |
 | 当前，待整理 | current |  |
 
