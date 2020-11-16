@@ -10,3 +10,6 @@
 | [Java框架-太行](https://taihang.wangyaqi.cn/) | 框架 |
 | [产品解决方案](https://sln.wangyaqi.cn/) | 产品解决方案(含系统设计)，行业知识 |
 | [devops](https://devops.wangyaqi.cn/) | DevOps，运维 |
+
+# 说明
+* 本书籍生成器是[docsify](https://docsify.js.org/)，使用的模板文件在目录"/docsify"
