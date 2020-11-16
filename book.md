@@ -2,7 +2,8 @@
 
 | 名称 | 内容 |
 | - | - |
-| [me](https://blog.wangyaqi.cn/) | 书籍导航，心得理解，技术知识(操作系统原理，分布式系统等) |
+| [me](https://me.wangyaqi.cn/) | 书籍导航，心得理解 |
+| [技术知识](https://tech.wangyaqi.cn/) | 操作系统原理，分布式系统等 |
 | [产品](https://product.wangyaqi.cn/) | 调研分析，产品设计 |
 | [研发体系](https://rd.wangyaqi.cn/) | 软件工程，流程，团队管理。质量体系(QS),质量控制(QC),质量保证(QA),质量验证(VA) |
 | [Java](https://java.wangyaqi.cn/) | Java |
@@ -11,5 +12,5 @@
 | [产品解决方案](https://sln.wangyaqi.cn/) | 产品解决方案(含系统设计)，行业知识 |
 | [devops](https://devops.wangyaqi.cn/) | DevOps，运维 |
 
-# 说明
+# 书籍生成器
 * 本书籍生成器是[docsify](https://docsify.js.org/)，使用的模板文件在目录"/docsify"
