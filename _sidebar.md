@@ -1,5 +1,4 @@
 * [介绍](README.md)
-* [书籍导航](book.md)
 * 思考1
   * [商业](think/biz.md)
   * [实体门店的思考](think/shop.md)
