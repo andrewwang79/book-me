@@ -1,4 +1,3 @@
-
 # 代码块
 ```
 \```
@@ -10,6 +9,10 @@ JavaRDD<String> textFile = sc.textFile("hdfs://...");
 ```
 * []()
 1. []()
+```
+# 图片
+```
+![](./s/xyz.jpg)
 ```
 
 # 表
