@@ -13,7 +13,7 @@ JavaRDD<String> textFile = sc.textFile("hdfs://...");
 ```
 * []()
 1. []()
-内部链接，从根路径开始。如https://devops.wangyaqi.cn/#/soft/dev/git是[git](./soft/dev/git)
+内部链接，从根路径开始："./${.sidebar.md的路径}"。如https://devops.wangyaqi.cn/#/soft/dev/git是[git](./soft/dev/git)
 
 ```
 # 图片
