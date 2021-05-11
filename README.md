@@ -8,7 +8,8 @@
 | [Java框架-太行](https://taihang.wangyaqi.cn/) | 框架 |
 | [产品解决方案](https://sln.wangyaqi.cn/) | 产品解决方案(含系统设计) |
 | [Java](https://java.wangyaqi.cn/) | Java |
-| [编程语言](https://pl.wangyaqi.cn/) | C++，Python等 |
+| [C++](https://cpp.wangyaqi.cn/) | C++ |
+| [编程语言](https://pl.wangyaqi.cn/) | Python等 |
 | [产品](https://product.wangyaqi.cn/) | 调研分析，产品设计 |
 
 # 书籍生成器
