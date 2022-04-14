@@ -7,8 +7,8 @@ JavaRDD<String> textFile = sc.textFile("hdfs://...");
 ```
 * []()
 1. []()
-#模式的内部链接，#是根路径：如https://devops.wangyaqi.cn/#/soft/dev/git是[git](./soft/dev/git)
-标准路径的内部链接：如https://devops.wangyaqi.cn/soft/dev/git是[git](/soft/dev/git)
+#模式的内部链接，#是根路径：如https://devops.wangyaqi.cn/#/soft/dev/git 链接写法是 [git](./soft/dev/git)
+标准路径的内部链接：如https://devops.wangyaqi.cn/soft/dev/git 链接写法是 [git](/soft/dev/git)
 ```
 
 # 图片
@@ -43,7 +43,7 @@ JavaRDD<String> textFile = sc.textFile("hdfs://...");
       0.91,
       1.49
     ],
-    "spped": [
+    "speed": [
       0.01,
       0.01,
       -0.25
