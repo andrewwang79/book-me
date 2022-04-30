@@ -9,4 +9,5 @@
   * [商业](think/biz.md)
   * [实体门店的思考](think/shop.md)
   * [创业](think/startup.md)
+  * [OKR](think/okr.md)
   * [专利](think/patent.md)
