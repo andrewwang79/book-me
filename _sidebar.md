@@ -1,12 +1,12 @@
-* [介绍](README.md)
-* 思考1
+* [书籍清单](README.md)
+* [本书籍生成方法](boo-gen.md)
+* blog
+  * [亚马逊2018技术大会](blog/aws-2018-shanghai.md)
+  * [有赞新零售沙龙](blog/new-retail.md)
+  * [失控读后感](blog/outofcontrol.md)
+  * [stay hungry stay foolish](blog/stay-hungry.md)
+* 思考
   * [商业](think/biz.md)
   * [实体门店的思考](think/shop.md)
-  * [持续计费系统的资金和交易方案](think/bill-system.md)
+  * [创业](think/startup.md)
   * [专利](think/patent.md)
-* 思考2
-  * [亚马逊2018技术大会](think/aws-2018-shanghai.md)
-  * [有赞新零售沙龙](think/new-retail.md)
-* 思考3
-  * [失控读后感](think/outofcontrol.md)
-  * [stay hungry, stay foolish](think/stay-hungry.md)

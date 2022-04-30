@@ -1,4 +1,4 @@
-# stay hungry, stay foolish(2017-09-20)
+# stay hungry, stay foolish
 
 * [来源](http://www.ruanyifeng.com/blog/2015/05/stay_hungry_stay_foolish.html)
 * 本意：保持(对知识的)饥渴，保持(对前方道路的)无知
