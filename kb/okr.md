@@ -1,5 +1,6 @@
 # OKR
 * [OKR和KPI](http://www.donews.com/net/201401/2685980.shtm)
+* [该死的KPI](https://www.huxiu.com/article/8021.html)
 
 | 项 | 重点 | 适用 |
 | :-: | - | - |
