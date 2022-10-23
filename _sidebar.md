@@ -7,10 +7,11 @@
   * [stay hungry stay foolish](blog/stay-hungry.md)
 * 思考
   * [商业](think/biz.md)
-  * [实体门店的思考](think/shop.md)
+  * [产品](think/product.md)
   * [创业](think/startup.md)
-  * [名言](think/famous.md)
+  * [实体门店的思考](think/shop.md)
 * 知识
   * [理论方法](kb/method.md)
+  * [名言](think/famous.md)
   * [OKR](kb/okr.md)
   * [专利](kb/patent.md)
