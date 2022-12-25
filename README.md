@@ -3,7 +3,7 @@
 | - | - |
 | [me](https://me.wangyaqi.cn/) | 书籍导航，个人blog |
 | [计算机知识](https://tech.wangyaqi.cn/) | 原理知识和通用方案。如操作系统原理，分布式系统，API规范，硬件，测试等 |
-| [研发](https://rd.wangyaqi.cn/) | 管理+工程+技术 |
+| [研发](https://rd.wangyaqi.cn/) | 组织管理+系统工程+技术 |
 | [研发效能平台](https://devops.wangyaqi.cn/) | DevOps，运维 |
 | [行业-医疗](https://medical.wangyaqi.cn/) | 医疗知识和产品系统 |
 | [行业-人工智能](https://ai.wangyaqi.cn/) | 人工智能知识和产品系统 |
