@@ -1,5 +1,5 @@
-* [书籍清单](README.md)
-* [本书籍生成方法](book-gen.md)
+* [研发知识导航](README.md)
+* [书籍生成方法](book-gen.md)
 * blog
   * [亚马逊2018技术大会](blog/aws-2018-shanghai.md)
   * [有赞新零售沙龙](blog/new-retail.md)
