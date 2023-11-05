@@ -4,7 +4,7 @@
 | 名称 | 内容 |
 | - | - |
 | [me](https://me.wangyaqi.cn/) | 研发知识导航，个人blog |
-| [计算机知识](https://tech.wangyaqi.cn/) | 原理知识和通用方案。如操作系统原理，分布式系统，API规范，硬件，测试等 |
+| [计算机](https://tech.wangyaqi.cn/) | 原理知识和通用方案。如操作系统原理，分布式系统，API规范，硬件，测试等 |
 | [研发](https://rd.wangyaqi.cn/) | 组织管理+系统工程+技术 |
 | [研发效能平台](https://devops.wangyaqi.cn/) | DevOps，运维 |
 | [行业-医疗](https://medical.wangyaqi.cn/) | 医疗知识及其产品系统 |
@@ -18,13 +18,13 @@
 ## 产品研发知识体系
 | 名称 | 内容 |
 | - | - |
-| 计算机 | 体系架构 <br> 操作系统 <br> 数据库系统 <br> 数据结构 |
-| 系统设计 | 架构设计 <br> 性能和可靠性 <br> 安全和保密(密码学) <br> 中间件 |
+| [计算机](https://tech.wangyaqi.cn/) | 体系架构 <br> 操作系统 <br> 数据库系统 <br> 数据结构 <br> 驱动(固件，嵌入式) |
+| 质量 | QMS，plm，cm |
 | 软件工程 | 产品生命周期 <br> 开发模型 <br> 项目管理 |
-| 产品开发 | 系统规划 <br> 系统分析和设计 <br> 测试 |
-| 业务 | 驱动(固件，嵌入式) <br> 运动控制 <br> [人工智能](https://ai.wangyaqi.cn/) <br> 图像处理 |
+| 产品开发 | 产品设计 <br> 系统设计 <br> 测试 <br> CICD、[研发效能平台](https://devops.wangyaqi.cn/) <br> 运维 |
+| 系统设计 | 架构设计 <br> 性能和可靠性 <br> 安全和保密(密码学) <br> 中间件 |
+| 垂直 | 运动控制 <br> [人工智能](https://ai.wangyaqi.cn/) <br> 图像处理 |
 | 开发语言 | [C/C++](https://cpp.wangyaqi.cn/) <br> Python <br> [Java](https://java.wangyaqi.cn/) |
-| 其他 | QMS <br> 运维 <br> [研发效能平台](https://devops.wangyaqi.cn/) |
 
 ### 体系架构
 1. 硬件
