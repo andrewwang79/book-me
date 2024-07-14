@@ -14,5 +14,5 @@
 ## 透视图表
 * https://www.zhihu.com/question/22484899
 * https://www.jianshu.com/p/23c8984f7cc7
-* [公式.xlsx](https://tech.wangyaqi.cn/s/excel/公式.xlsx)
+* [公式.xlsx](https://me.wangyaqi.cn/kb/excel/公式.xlsx)
 * [快速复制多行或整列公式](http://blog.sina.com.cn/s/blog_14e89401f0102wnzk.html)方法1
