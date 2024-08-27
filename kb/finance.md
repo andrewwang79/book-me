@@ -76,11 +76,21 @@
 
 ### 纳斯达克指数
 * [官网](https://www.nasdaq.com/), [google金融](https://www.google.com/finance/quote/.IXIC:INDEXNASDAQ)
+* [基金的历史市盈率](https://www.lixinger.com/equity/index/detail/nasdaq/.NDX/9592/fundamental/valuation/pe-ttm)
+
+### 标普500指数
+![](../s/kb/finance/SP500.jpeg)
 
 ### 香港开户
 * [港股怎么开户？常见的港股开户方式有哪些？](https://xueqiu.com/2688347802/204415877)
-* [香港汇丰银行](https://www.hsbc.com.cn/) 400-820-3090
-* https://zhuanlan.zhihu.com/p/466599177
-* [香港渣打银行](https://www.sc.com/cn/) 400-888-8083
-* [香港中信银行](https://www.cncbinternational.com/) 95558
-* [香港民生银行](https://hk.cmbc.com.cn/) 95568
+* https://xueqiu.com/9412416723/297513177
+
+| 银行 | 成本 | 电话 |
+| - | - | - |
+| [香港汇丰银行](https://www.hsbc.com.cn/)，汇丰ONE | 无存款，无管理费 | 400-820-3090 |
+| [香港渣打银行](https://www.sc.com/cn/) | 无存款，账户管理费前6个月免费，6个月后可自由降级到普通个人账户 |  | 400-888-8083 |
+| 香港中银 | 无存款，无管理费 |  |
+| 恒生 |  |  |
+| 花旗 |  |  |
+| [香港中信银行](https://www.cncbinternational.com/) |  | 95558 |
+| [香港民生银行](https://hk.cmbc.com.cn/) |  | 95568 |
