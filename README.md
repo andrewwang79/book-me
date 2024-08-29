@@ -15,3 +15,5 @@
 | [软件开发-其他语言](https://pl.wangyaqi.cn/) | Python等 |
 | [产品行业](https://product.wangyaqi.cn/) | 产品解决方案(含系统设计) |
 | [行业-医疗](https://medical.wangyaqi.cn/) | 医疗 |
+| [金融理财](https://finance.wangyaqi.cn/) | 金融理财 |
+| [数学](https://math.wangyaqi.cn/) | 数学之美 |
