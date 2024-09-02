@@ -9,8 +9,10 @@
 ### 使用Github Pages部署
 1. 准备的目录提交到github的main分支
 1. 域名通过类型CNAME指向github页面，如andrewwang79.github.io
-1. [部署](https://docs.github.com/cn/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)，注意在PAGE页面(如
-https://github.com/andrewwang79/book-me/settings/pages)勾选github页面的"Enforce HTTPS"
+1. 打开PAGE页面[部署](https://docs.github.com/cn/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)(如
+https://github.com/andrewwang79/book-me/settings/pages)，操作如下图。
+
+![](./s/docsify/deploy.jpg)
 
 ### 自行部署
 1. 安装本地工具，依赖Node.js：npm i docsify-cli -g
