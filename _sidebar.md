@@ -16,4 +16,3 @@
   * [OKR](kb/okr.md)
   * [专利](kb/patent.md)
   * [急救](kb/emergency_treatment.md)
-  * [金融](kb/finance.md)

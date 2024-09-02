@@ -1,5 +1,5 @@
 # 本书籍生成方法
-* 基于[docsify](https://docsify.js.org/)，使用Github Pages部署
+> 基于[docsify](https://docsify.js.org/)，使用Github Pages部署
 
 ## 准备目录
 1. 参考模板文件（在目录"/docsify"），创建目录
@@ -8,9 +8,9 @@
 ## 部署(两种方法)
 ### 使用Github Pages部署
 1. 准备的目录提交到github的main分支
-1. [部署](https://docs.github.com/cn/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)
-1. 域名CNAME指向github页面，如andrewwang79.github.io
-1. 勾选github页面的"Enforce HTTPS"
+1. 域名通过类型CNAME指向github页面，如andrewwang79.github.io
+1. [部署](https://docs.github.com/cn/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)，注意在PAGE页面(如
+https://github.com/andrewwang79/book-me/settings/pages)勾选github页面的"Enforce HTTPS"
 
 ### 自行部署
 1. 安装本地工具，依赖Node.js：npm i docsify-cli -g
