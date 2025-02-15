@@ -23,6 +23,7 @@
     * [MAC客户端V2rayU下载](https://github.com/yanue/V2rayU/releases)，首次使用PAC需要手动点击按钮更新
     * [iphone手机Spectre](https://pianyissr.com/540.html)，不支持PAC模式
     * [浏览器SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega/wiki/GFWList)
+    * iPad的软件：FoXray，V2Box。需要国外store
     * [holytech服务商的翻墙软件](https://store.holytech.tech/knowledgebase.php?action=displayarticle&id=24)
 * [IP伪装真实度检查](https://whoer.net)
 
