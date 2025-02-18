@@ -7,17 +7,9 @@
   * [康奈尔笔记(5R笔记法)](kb/cornell.md)
   * [专利](kb/patent.md)
   * [急救](kb/emergency_treatment.md)
-  * [邮件编写](kb/mail.md)
-  * [计量单位](kb/measure.md)
   * [科学上网](kb/science_surf.md)
 * 价值思考
   * [商业](value/biz.md)
   * [产品](value/product.md)
   * [创业](value/startup.md)
-* 思考
-  * [失控读后感](think/outofcontrol.md)
-  * [stay hungry stay foolish](think/stay-hungry.md)
-  * [实体门店的思考](think/shop.md)
-* blog
-  * [亚马逊2018技术大会](blog/aws-2018-shanghai.md)
-  * [有赞新零售沙龙](blog/new-retail.md)
+  * [人](value/person.md)
