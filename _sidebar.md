@@ -11,5 +11,6 @@
 * 价值思考
   * [商业](value/biz.md)
   * [产品](value/product.md)
+  * [业务销售](value/sale.md)
   * [创业](value/startup.md)
   * [人](value/person.md)
