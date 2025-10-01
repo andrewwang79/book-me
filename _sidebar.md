@@ -8,6 +8,7 @@
   * [专利](kb/patent.md)
   * [急救](kb/emergency_treatment.md)
   * [科学上网](kb/science_surf.md)
+  * [英语常用场景](kb/en.md)
 * 价值思考
   * [商业](value/biz.md)
   * [产品](value/product.md)

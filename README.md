@@ -23,5 +23,5 @@
 | 名称 | 内容 |
 | - | - |
 | [行业-医疗](https://medical.wangyaqi.cn/) | 医疗 |
-| [金融理财](https://fin.wangyaqi.cn/) | 金融理财 |
+| [资产管理](https://fin.wangyaqi.cn/) | 资产管理，金融知识 |
 | [数学](https://math.wangyaqi.cn/) | 数学之美 |
