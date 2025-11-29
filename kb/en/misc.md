@@ -50,3 +50,6 @@
 | 附近有卫生间吗？我找了好久没找到。 | Is there a restroom nearby? I've been looking for it for a long time. |
 | 从这里坐地铁到市中心需要转线吗？ | Do I need to transfer lines to get to the city center by subway from here? |
 | 那个博物馆离这里远吗？可以坐公交车去吗？ | Is that museum far from here? Can I get there by bus? |
+
+## other
+* make the choice，this is your price

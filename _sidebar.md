@@ -9,9 +9,9 @@
   * [急救](kb/emergency_treatment.md)
   * [科学上网](kb/science_surf.md)
   * [英语常用场景](kb/en.md)
-* 价值思考
+* 思考
+  * [做人做事](value/person.md)
   * [商业](value/biz.md)
   * [产品](value/product.md)
   * [业务销售](value/sale.md)
   * [创业](value/startup.md)
-  * [人](value/person.md)
